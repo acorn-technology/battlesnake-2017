@@ -10,3 +10,6 @@
 [submodule "cpp"]
 	path = cpp
 	url = https://github.com/asterkrans/BattleSnake-cpp-client
+[submodule "python"]
+	path = python
+	url = https://github.com/noahspriggs/battlesnake-python
