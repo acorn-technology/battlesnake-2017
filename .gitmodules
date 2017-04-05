@@ -7,3 +7,6 @@
 [submodule "sendwithus"]
 	path = sendwithus
 	url = https://github.com/sendwithus/battlesnake
+[submodule "cpp"]
+	path = cpp
+	url = https://github.com/asterkrans/BattleSnake-cpp-client
