@@ -13,3 +13,6 @@
 [submodule "python"]
 	path = python
 	url = https://github.com/noahspriggs/battlesnake-python
+[submodule "java"]
+	path = java
+	url = https://github.com/appsupport-at-acorn/BasicBattleSnake
