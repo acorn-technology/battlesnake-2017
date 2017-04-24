@@ -16,3 +16,6 @@
 [submodule "java"]
 	path = java
 	url = https://github.com/appsupport-at-acorn/BasicBattleSnake
+[submodule "node"]
+	path = node
+	url = https://github.com/lbsa71/battlesnake-node
