@@ -19,6 +19,3 @@
 [submodule "node"]
 	path = node
 	url = https://github.com/lbsa71/battlesnake-node
-[submodule "c"]
-	path = c
-	url = https://github.com/cfogelklou/battlesnake_c_2017
